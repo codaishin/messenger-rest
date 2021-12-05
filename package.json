@@ -1,0 +1,31 @@
+{
+	"name": "messenger-rest",
+	"version": "0.1.0",
+	"description": "Messenger app rest server",
+	"type": "module",
+	"scripts": {
+		"test": "jest --watch"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/codaishin/messenger-rest.git"
+	},
+	"author": "codaishin",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/codaishin/messenger-rest/issues"
+	},
+	"homepage": "https://github.com/codaishin/messenger-rest#readme",
+	"devDependencies": {
+		"@babel/core": "^7.16.0",
+		"@babel/preset-env": "^7.16.4",
+		"@babel/preset-typescript": "^7.16.0",
+		"@types/jest": "^27.0.3",
+		"@typescript-eslint/eslint-plugin": "^5.5.0",
+		"@typescript-eslint/parser": "^5.5.0",
+		"babel-jest": "^27.4.2",
+		"eslint": "^8.4.0",
+		"jest": "^27.4.3",
+		"typescript": "^4.5.2"
+	}
+}
